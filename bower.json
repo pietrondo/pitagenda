@@ -1,0 +1,26 @@
+{
+  "name": "pitagenda",
+  "version": "0.0.1",
+  "homepage": "https://github.com/pietrondo/pitagenda",
+  "authors": [
+    "pietrondo <pietro.capriata@gmail.com>"
+  ],
+  "description": "Simple agenda for android",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "gpl2",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "jquery-mobile": "~1.4.5",
+    "phonegap": "~2.9.1"
+  }
+}
